@@ -18,5 +18,6 @@
  set expandtab
    set shiftwidth=4
    set tabstop=4
- let g:rehash256 = 1
- set number
+let g:rehash256 = 1
+set number
+set cmdheight=1
