@@ -1,6 +1,6 @@
 # The Ultimate vimrc
 
-Originally forked from https://github.com/amix/vimrc, then tuned for my own needs.
+Originally forked from https://github.com/amix/vimrc, then tuned for my own needs. The following text is by @amix, with changes in URLs.
 
 There are two versions:
 
@@ -12,7 +12,7 @@ I would of course recommend using the awesome version.c
 ## How to install the Awesome version?
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following:
 
-	git clone https://github.com/amix/vimrc.git ~/.vim_runtime
+	git clone https://github.com/NikolayS/vimrc.git ~/.vim_runtime
 	sh ~/.vim_runtime/install_awesome_vimrc.sh
 
 I also recommend using [Source Code Pro font from Adobe](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960) (it's free and awesome font for writing and programming). The Awesome vimrc is already setup to try to use it
