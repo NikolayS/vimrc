@@ -16,8 +16,14 @@ set background=dark
 colorscheme solarized
 filetype plugin indent on
 set expandtab
-  set shiftwidth=4
-  set tabstop=4
+set nosmarttab
+set shiftwidth=2
+set tabstop=2
 let g:rehash256 = 1
-set number
+" set number
+set nonu
 set cmdheight=1
+
+let g:sql_type_default = 'pgsql'
+
+set list
