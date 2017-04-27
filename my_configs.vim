@@ -27,3 +27,4 @@ set cmdheight=1
 let g:sql_type_default = 'pgsql'
 
 set list
+set listchars=tab:>-
