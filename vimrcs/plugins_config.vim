@@ -127,7 +127,7 @@ let g:lightline = {
        \ }
 
  function! LightLineFilename()
-   return expand('%:p:h')
+   return expand('%')
  endfunction
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
