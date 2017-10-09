@@ -126,9 +126,10 @@ let g:lightline = {
        \ 'subseparator': { 'left': ' ', 'right': ' ' }
        \ }
 
- function! LightLineFilename()
-   return expand('%')
- endfunction
+" thanks https://github.com/itchyny/lightline.vim/issues/87#issuecomment-119130738
+function! LightLineFilename()
+  return expand('%')
+endfunction
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Vimroom
