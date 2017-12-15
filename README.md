@@ -2,13 +2,15 @@
 
 Originally forked from https://github.com/amix/vimrc, then tuned for my own needs. All credits go to @amix.
 
-Notice, that many VIMers say that it's not a good way to learn vim or improve your vim skills starting with fullfledged vim with all bells and whistles. They say that you need to start with vanilla vim, learning and adding things step by step.
-
-My way is different and I'm not a big VIM guru (however I'm a fan of it and use it a lot for many years).
-
 Enjoy!
 
-P.S. Most VIM things work in cyrilic mode, heh ;-)
+_// By the way, most VIM things work in cyrilic mode, heh ;-)_
+
+## How to install?
+
+Notice, that many VIMers say that it's not a good way to learn vim or improve your skills starting with fullfledged vim with all bells and whistles. They say that you need to start with vanilla vim, learning and adding things step by step.
+
+My way is different but I'm not a big VIM guru (however I'm a fan of it and use it a lot for many years).
 
 ## How to install?
 
