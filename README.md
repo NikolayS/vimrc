@@ -6,7 +6,7 @@ Enjoy!
 
 _// By the way, most VIM things work in cyrilic mode, heh ;-)_
 
-## How to install?
+## Dislaimer
 
 Notice, that many VIMers say that it's not a good way to learn vim or improve your skills starting with fullfledged vim with all bells and whistles. They say that you need to start with vanilla vim, learning and adding things step by step.
 
